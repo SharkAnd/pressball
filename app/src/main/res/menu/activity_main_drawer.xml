@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" android:id="@+id/menu">
+        <item
+            android:id="@+id/news"
+            android:checked="true"
+            android:title="Новости" />
+        <item
+            android:id="@+id/pb_online"
+
+            android:title="ПБ-Онлайн" />
+        <item
+            android:id="@+id/blogs"
+
+            android:title="Блоги" />
+        <item
+            android:id="@+id/digest"
+
+            android:title="Дайджест" />
+    </group>
+
+
+
+</menu>

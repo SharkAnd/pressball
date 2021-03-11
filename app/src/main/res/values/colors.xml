@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dd6633</color>
+    <color name="colorPrimaryDark">#ff4400</color>
+    <color name="colorAccent">#0055aa</color>
+    <color name="list">#ff7d12</color>
+    <color name="list2">#ffffff</color>
+    <color name="text">#000000</color>
+    <color name="textm">#d7000000</color>
+    <color name="bac">#16000000</color>
+
+    <color name="unpressedCard">#ffffff</color>
+    <color name="pressedCard">#9e2d96ff</color>
+</resources>

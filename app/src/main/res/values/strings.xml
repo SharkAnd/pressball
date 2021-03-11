@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Прессбол</string>
+
+    <string-array name="category">
+        <item>Все</item>
+        <item>Футбол</item>
+        <item>Хоккей</item>
+        <item>Баскетбол</item>
+        <item>Гандбол</item>
+        <item>Зимние виды</item>
+        <item>Биатлон</item>
+        <item>Летние виды</item>
+        <item>Разное</item>
+        <item>Олимпиада</item>
+        <item>Теннис</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

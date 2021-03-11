@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress AndroidDomInspection -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true">
+        <shape >
+            <solid android:color="@color/pressedCard"/>
+        </shape>
+    </item>
+
+    <item android:state_pressed="false">
+
+        <shape >
+            <solid android:color="@color/unpressedCard"/>
+        </shape>
+    </item>
+
+</selector>
